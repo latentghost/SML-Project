@@ -5,10 +5,10 @@ ID,category
 3,Strawberry_Raw
 4,Orange_Ripe
 5,Banana_Ripe
-6,Coconut_Ripe
+6,Orange_Ripe
 7,Apple_Ripe
 8,Coconut_Raw
-9,Coconut_Ripe
+9,Coconut_Raw
 10,Strawberry_Ripe
 11,Banana_Ripe
 12,Mango_Raw
@@ -30,7 +30,7 @@ ID,category
 28,Coconut_Ripe
 29,Orange_Ripe
 30,Banana_Ripe
-31,Apple_Ripe
+31,Pomengranate_Ripe
 32,Strawberry_Raw
 33,Banana_Raw
 34,Coconut_Raw
@@ -52,7 +52,7 @@ ID,category
 50,Papaya_Raw
 51,Mango_Ripe
 52,Mango_Raw
-53,Mango_Ripe
+53,Guava_Ripe
 54,Apple_Ripe
 55,Leeche_Ripe
 56,Papaya_Ripe
@@ -71,7 +71,7 @@ ID,category
 69,Pomengranate_Raw
 70,Apple_Raw
 71,Strawberry_Raw
-72,Mango_Ripe
+72,Coconut_Raw
 73,Papaya_Raw
 74,Coconut_Raw
 75,Guava_Ripe
@@ -83,7 +83,7 @@ ID,category
 81,Mango_Raw
 82,Apple_Ripe
 83,Coconut_Ripe
-84,Guava_Raw
+84,Papaya_Raw
 85,Banana_Ripe
 86,Mango_Raw
 87,Papaya_Ripe
@@ -92,7 +92,7 @@ ID,category
 90,Pomengranate_Raw
 91,Papaya_Ripe
 92,Pomengranate_Raw
-93,Coconut_Ripe
+93,Apple_Ripe
 94,Mango_Ripe
 95,Apple_Raw
 96,Leeche_Raw
@@ -104,7 +104,7 @@ ID,category
 102,Pomengranate_Raw
 103,Papaya_Raw
 104,Orange_Ripe
-105,Apple_Ripe
+105,Apple_Raw
 106,Apple_Raw
 107,Mango_Ripe
 108,Apple_Ripe
@@ -116,7 +116,7 @@ ID,category
 114,Mango_Ripe
 115,Papaya_Ripe
 116,Strawberry_Raw
-117,Coconut_Ripe
+117,Apple_Raw
 118,Pomengranate_Ripe
 119,Guava_Raw
 120,Apple_Ripe
@@ -128,7 +128,7 @@ ID,category
 126,Orange_Ripe
 127,Apple_Ripe
 128,Apple_Raw
-129,Strawberry_Ripe
+129,Apple_Ripe
 130,Coconut_Ripe
 131,Orange_Raw
 132,Strawberry_Raw
@@ -148,7 +148,7 @@ ID,category
 146,Pomengranate_Raw
 147,Banana_Ripe
 148,Pomengranate_Ripe
-149,Pomengranate_Raw
+149,Leeche_Raw
 150,Mango_Ripe
 151,Leeche_Raw
 152,Strawberry_Ripe
@@ -157,10 +157,10 @@ ID,category
 155,Pomengranate_Raw
 156,Strawberry_Ripe
 157,Orange_Ripe
-158,Orange_Ripe
+158,Mango_Ripe
 159,Strawberry_Raw
 160,Coconut_Ripe
-161,Strawberry_Raw
+161,Banana_Ripe
 162,Leeche_Ripe
 163,Banana_Ripe
 164,Mango_Raw
@@ -190,7 +190,7 @@ ID,category
 188,Coconut_Raw
 189,Guava_Raw
 190,Guava_Ripe
-191,Mango_Ripe
+191,Apple_Ripe
 192,Coconut_Raw
 193,Apple_Ripe
 194,Orange_Raw
@@ -210,7 +210,7 @@ ID,category
 208,Banana_Ripe
 209,Leeche_Ripe
 210,Strawberry_Ripe
-211,Strawberry_Ripe
+211,Strawberry_Raw
 212,Pomengranate_Ripe
 213,Strawberry_Ripe
 214,Pomengranate_Ripe
@@ -243,7 +243,7 @@ ID,category
 241,Coconut_Ripe
 242,Pomengranate_Ripe
 243,Leeche_Raw
-244,Mango_Ripe
+244,Coconut_Raw
 245,Banana_Ripe
 246,Apple_Ripe
 247,Banana_Ripe
@@ -306,7 +306,7 @@ ID,category
 304,Leeche_Raw
 305,Pomengranate_Ripe
 306,Pomengranate_Ripe
-307,Strawberry_Ripe
+307,Strawberry_Raw
 308,Banana_Ripe
 309,Apple_Ripe
 310,Mango_Raw
@@ -316,7 +316,7 @@ ID,category
 314,Papaya_Raw
 315,Mango_Raw
 316,Guava_Ripe
-317,Strawberry_Ripe
+317,Strawberry_Raw
 318,Papaya_Ripe
 319,Guava_Ripe
 320,Pomengranate_Ripe
@@ -342,7 +342,7 @@ ID,category
 340,Apple_Raw
 341,Mango_Raw
 342,Apple_Raw
-343,Apple_Raw
+343,Coconut_Raw
 344,Papaya_Ripe
 345,Banana_Raw
 346,Papaya_Raw
@@ -352,7 +352,7 @@ ID,category
 350,Coconut_Raw
 351,Mango_Ripe
 352,Pomengranate_Raw
-353,Papaya_Ripe
+353,Papaya_Raw
 354,Guava_Ripe
 355,Strawberry_Ripe
 356,Apple_Raw
@@ -391,7 +391,7 @@ ID,category
 389,Banana_Raw
 390,Banana_Raw
 391,Mango_Ripe
-392,Apple_Ripe
+392,Coconut_Ripe
 393,Guava_Raw
 394,Banana_Ripe
 395,Leeche_Raw
