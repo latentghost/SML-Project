@@ -1,6 +1,6 @@
-## **SML Project**
+## SML Project
 
-**Project Details:**  
+### Project Details
 
 Kaggle Challenge Link: [SML Project](https://www.kaggle.com/t/6b2ae3ae0abe40b4a5de304fcb0783ca)  
 
